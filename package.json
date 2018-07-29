@@ -1,0 +1,15 @@
+{
+  "name": "madhav",
+  "version": "1.0.0",
+  "description": "this is my learning app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "madhav_demo"
+  },
+  "author": "sunil-yadav",
+  "license": "ISC"
+}
